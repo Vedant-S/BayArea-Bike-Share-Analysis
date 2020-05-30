@@ -1,4 +1,4 @@
-# Bay Area Bike Sharing Data Analysis:
+# Bay-Area Bike Sharing Data Analysis:
 ____________________________________________________________________________________________________________________________________
 **This folder contains files for P0: Analyze Bay Area Bike Share Data.**
 
